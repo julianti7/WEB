@@ -42,3 +42,10 @@ h1{
     top: 20px;
     left: 10px;
 }
+.logo1{
+    width: 640px;
+    height: 360px;
+    position: absolute;
+    top: -50px;
+    right: -120px;
+}
