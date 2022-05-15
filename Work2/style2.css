@@ -1,0 +1,44 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(1149909.jpg);
+    background-size: unset;
+    background-position: unset;
+    font-family: sans-serif;
+}
+.contentBox{
+    width: 300px;
+    height: 380px;
+    background: rgba(255, 255, 255, 0.932);
+    color: #000;
+    top: 20%;
+    left: 45%;
+    position: absolute;
+    transform-box: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    color: rgb(45,87,44);
+    border-bottom: 2px solid;
+}
+.contentBox a{ 
+    text-decoration: none;
+    line-height: 20px;
+    color: rgb(11, 96, 165);
+ 
+}
+.contentBox h2{
+    margin: 0;
+    padding: 0 0 20px;
+
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
