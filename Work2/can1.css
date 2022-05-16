@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(1149909.jpg) no-repeat fixed;
+    background-size: unset;
+    background-position: unset;
+    font-family: sans-serif;
+}
+
+h1{
+  font-size: 60px;
+  text-align: center;
+}
+
+.info{
+    background: rgba(255, 255, 255, 0.9);
+    color: #000;
+    top: 38%;
+    width: 800px;
+    left: 20%;
+    position: absolute;
+    transform-box: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 20px 30px;
+    text-align: justify;
+}
+.regresar{
+  
+  background-color: #4CAF50;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.logo1{
+    width: 640px;
+    height: 360px;
+    position: absolute;
+    top: -50px;
+    right: -120px;
+}
